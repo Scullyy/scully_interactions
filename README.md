@@ -1,5 +1,5 @@
 # scully_interactions
- Allow players to use nearby scenarios.
+This interaction script allows your players to interact with many locations within the game by performing scenarios on specific props around the map.
 
 # Support:
 
