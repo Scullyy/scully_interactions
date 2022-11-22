@@ -14,4 +14,4 @@ For support join my discord here: https://discord.gg/scully
 - [ox_lib](https://github.com/overextended/ox_lib)
 
 # Showcase
-https://i.gyazo.com/8676b65d347e8c74f9d5e9b8e011df11.gif
+<img src='https://i.gyazo.com/8676b65d347e8c74f9d5e9b8e011df11.gif'>
