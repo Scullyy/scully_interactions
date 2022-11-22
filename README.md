@@ -15,4 +15,4 @@ For support join my discord here: https://discord.gg/scully
 
 # Showcase
 
-![](https://i.gyazo.com/8676b65d347e8c74f9d5e9b8e011df11.gif)
+https://i.gyazo.com/8676b65d347e8c74f9d5e9b8e011df11.gif
