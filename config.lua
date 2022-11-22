@@ -1,4 +1,4 @@
 Config = {
     Radius = 2.0,
-    Keybind = 'e'
+    Keybind = 'i'
 }

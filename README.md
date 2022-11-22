@@ -1,5 +1,5 @@
 # scully_interactions
-This interaction script allows your players to interact with many locations within the game by performing scenarios on specific props around the map.
+This is just some small interaction script that allows your players to interact with many locations within the game by performing scenarios on specific props and locations around the map using a keybind.
 
 # Support:
 
@@ -12,3 +12,6 @@ For support join my discord here: https://discord.gg/scully
 # Requirements
 
 - [ox_lib](https://github.com/overextended/ox_lib)
+
+# Showcase
+https://i.gyazo.com/8676b65d347e8c74f9d5e9b8e011df11.gif
