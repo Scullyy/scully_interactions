@@ -1,5 +1,5 @@
 --- https://discord.gg/scully ---
-fx_version 'adamant'
+fx_version 'cerulean'
 
 game 'gta5'
 version '1.0.0'
